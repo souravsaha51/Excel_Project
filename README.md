@@ -4,3 +4,13 @@ Welcome to the Sales Dashboard project repository! This project focuses on analy
 
 ## Dashboard
 <img width="900" alt="Coding" src="https://github.com/souravsaha51/Sales-Dashboard-Using-Excel/blob/main/Dashboard.png">
+
+## Project Overview:
+- **Objective:** To transform raw sales data into actionable insights.
+- **Tools Used:** Microsoft Excel
+- **Skills Demonstrated:** Data analysis, visualization, dashboard design.
+
+ ## Features:
+- Analyze sales trends over time
+- Visualize sales distribution by state
+- Identify top-performing customers
