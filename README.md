@@ -14,3 +14,6 @@ Welcome to the Sales Dashboard project repository! This project focuses on analy
 - Analyze sales trends over time
 - Visualize sales distribution by state
 - Identify top-performing customers
+
+## Usage
+Utilize the analysis and insights to make informed decisions. Leverage visualizations and the dashboard to optimize inventory, improve customer experiences, and enhance profitability.
